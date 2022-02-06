@@ -1,0 +1,15 @@
+D:\demos\netify\solid-principles\src\sr-principle\bin\Debug\net6.0\sr-principle.exe
+D:\demos\netify\solid-principles\src\sr-principle\bin\Debug\net6.0\sr-principle.deps.json
+D:\demos\netify\solid-principles\src\sr-principle\bin\Debug\net6.0\sr-principle.runtimeconfig.json
+D:\demos\netify\solid-principles\src\sr-principle\bin\Debug\net6.0\sr-principle.dll
+D:\demos\netify\solid-principles\src\sr-principle\bin\Debug\net6.0\ref\sr-principle.dll
+D:\demos\netify\solid-principles\src\sr-principle\bin\Debug\net6.0\sr-principle.pdb
+D:\demos\netify\solid-principles\src\sr-principle\obj\Debug\net6.0\sr-principle.csproj.AssemblyReference.cache
+D:\demos\netify\solid-principles\src\sr-principle\obj\Debug\net6.0\sr-principle.GeneratedMSBuildEditorConfig.editorconfig
+D:\demos\netify\solid-principles\src\sr-principle\obj\Debug\net6.0\sr-principle.AssemblyInfoInputs.cache
+D:\demos\netify\solid-principles\src\sr-principle\obj\Debug\net6.0\sr-principle.AssemblyInfo.cs
+D:\demos\netify\solid-principles\src\sr-principle\obj\Debug\net6.0\sr-principle.csproj.CoreCompileInputs.cache
+D:\demos\netify\solid-principles\src\sr-principle\obj\Debug\net6.0\sr-principle.dll
+D:\demos\netify\solid-principles\src\sr-principle\obj\Debug\net6.0\ref\sr-principle.dll
+D:\demos\netify\solid-principles\src\sr-principle\obj\Debug\net6.0\sr-principle.pdb
+D:\demos\netify\solid-principles\src\sr-principle\obj\Debug\net6.0\sr-principle.genruntimeconfig.cache

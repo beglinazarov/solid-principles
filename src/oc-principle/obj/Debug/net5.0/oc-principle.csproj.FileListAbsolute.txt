@@ -1,0 +1,16 @@
+D:\demos\netify\solid-principles\src\oc-principle\bin\Debug\net5.0\oc-principle.exe
+D:\demos\netify\solid-principles\src\oc-principle\bin\Debug\net5.0\oc-principle.deps.json
+D:\demos\netify\solid-principles\src\oc-principle\bin\Debug\net5.0\oc-principle.runtimeconfig.json
+D:\demos\netify\solid-principles\src\oc-principle\bin\Debug\net5.0\oc-principle.runtimeconfig.dev.json
+D:\demos\netify\solid-principles\src\oc-principle\bin\Debug\net5.0\oc-principle.dll
+D:\demos\netify\solid-principles\src\oc-principle\bin\Debug\net5.0\ref\oc-principle.dll
+D:\demos\netify\solid-principles\src\oc-principle\bin\Debug\net5.0\oc-principle.pdb
+D:\demos\netify\solid-principles\src\oc-principle\obj\Debug\net5.0\oc-principle.csproj.AssemblyReference.cache
+D:\demos\netify\solid-principles\src\oc-principle\obj\Debug\net5.0\oc-principle.GeneratedMSBuildEditorConfig.editorconfig
+D:\demos\netify\solid-principles\src\oc-principle\obj\Debug\net5.0\oc-principle.AssemblyInfoInputs.cache
+D:\demos\netify\solid-principles\src\oc-principle\obj\Debug\net5.0\oc-principle.AssemblyInfo.cs
+D:\demos\netify\solid-principles\src\oc-principle\obj\Debug\net5.0\oc-principle.csproj.CoreCompileInputs.cache
+D:\demos\netify\solid-principles\src\oc-principle\obj\Debug\net5.0\oc-principle.dll
+D:\demos\netify\solid-principles\src\oc-principle\obj\Debug\net5.0\ref\oc-principle.dll
+D:\demos\netify\solid-principles\src\oc-principle\obj\Debug\net5.0\oc-principle.pdb
+D:\demos\netify\solid-principles\src\oc-principle\obj\Debug\net5.0\oc-principle.genruntimeconfig.cache
